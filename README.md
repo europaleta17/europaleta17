@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Based in Poland, currently working on SkillChanger.pl, handling frontend development, design, and server management.<br>👯 Open to collaborating on web development, Discord bots, and design projects.<br><br>🌱 Learning Java and C# soon, while expanding my knowledge in JS and Python.<br>🎮 Also working on a mobile game project in Unity—more on that in the future 😎<br>💬 Ask me about frontend development, JavaScript, Python, Git, graphic design, and server management!<br><br>🌍 I speak Polish (native), English (fluent) and German (communicative).<br>🌐 Passionate about servers and networking, and I hold a Cisco CCNA certification.
+🔭 Based in Poland, currently working on SkillChanger.pl, handling frontend development, design, and server management.<br>👯 Open to collaborating on web development, Discord bots, and design projects.<br><br>🌱 Learning Java and C# soon, while expanding my knowledge in JS and Python.<br>🎮 Also working on a mobile game project in Unity—more on that in the future 🔥<br>💬 Ask me about frontend development, JavaScript, Python, Git, graphic design, and server management!<br><br>🌍 I speak Polish (native), English (fluent) and German (communicative).<br>🌐 Passionate about servers and networking, and I hold a Cisco CCNA certification.
 
 
 ## 🌐 Socials:
